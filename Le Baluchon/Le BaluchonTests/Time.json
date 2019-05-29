@@ -1,0 +1,15 @@
+{
+    "status": "OK",
+    "message": "",
+    "countryCode": "FR",
+    "countryName": "France",
+    "zoneName": "Europe/Paris",
+    "abbreviation": "CEST",
+    "gmtOffset": 7200,
+    "dst": "1",
+    "zoneStart": 1553994000,
+    "zoneEnd": 1572137999,
+    "nextAbbreviation": "CET",
+    "timestamp": 1557852429,
+    "formatted": "2019-05-14 16:47:09"
+}
