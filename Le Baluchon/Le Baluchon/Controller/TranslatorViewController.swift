@@ -57,3 +57,4 @@ class TranslatorViewController: UIViewController {
     }
    
 }
+
