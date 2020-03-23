@@ -60,7 +60,7 @@ enum Router {
         case .exchange: return "9cd1f7cf683f5c79c1d6bc1cc29598f6"
         case .weather: return "1ec6cee579e1d9dd8db62dfb56b71057"
         case .time: return "S1TXRVY7SETA"
-        case.translation: return "AIzaSyC4d-0qoKHyPI5sCa8xthWwqcsKiYF59oY"
+        case.translation: return "AIzaSyARuR7LnxIFVO6HzvWO0ngsHkJI4pVAdTQ"
         }
     }
     
