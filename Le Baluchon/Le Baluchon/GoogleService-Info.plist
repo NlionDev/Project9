@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1087479123667-lu24irtpdntvl1vpkgngr77n2k905tfe.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1087479123667-lu24irtpdntvl1vpkgngr77n2k905tfe</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCeOKspGsp5NoNggUa5LsX8jgBU4kbfaiA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1087479123667</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>NlionDev</string>
+	<key>PROJECT_ID</key>
+	<string>lebaluchon-1554222450947</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lebaluchon-1554222450947.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1087479123667:ios:5d1c77a1cf18249aec0e26</string>
+	<key>DATABASE_URL</key>
+	<string>https://lebaluchon-1554222450947.firebaseio.com</string>
+</dict>
+</plist>
